@@ -1,4 +1,4 @@
-# Casstte Tape - CSS art
+# Retro Cassette Tape
 My latest css illustration of a cassette tape. 
 
 ## Getting started
