@@ -1,13 +1,13 @@
 # Casstte Tape - CSS art
 My latest css illustration of a cassette tape. 
 
-# Getting started
+## Getting started
 View the project live over on Codepen: [Cassette tape - CSS](https://codepen.io/tannerdolby/full/ExPqqVZ)
 
-# Built with
+## Built with
 * HTML
 * CSS
 * Sass
 
-# Author
+## Author
 * *Tanner Dolby* - initial work - @tannerdolby
